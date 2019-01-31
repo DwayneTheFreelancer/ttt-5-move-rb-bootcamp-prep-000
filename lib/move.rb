@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(int) 
-  return int = int.to_i
+  return int = int.to_i -1 
 end
