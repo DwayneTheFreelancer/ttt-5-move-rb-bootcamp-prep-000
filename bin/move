@@ -9,4 +9,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 
 input = gets
-input = 
+input = "Where would you like to go?" 
