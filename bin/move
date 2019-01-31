@@ -13,3 +13,4 @@ input = "Where would you like to go?"
 
 index = input_to_index(5)
 move(board, 0, value = "X")
+display_board(board)
